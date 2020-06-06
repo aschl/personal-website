@@ -8,6 +8,7 @@ weight = 40  # Order that this section will appear.
 title = "Experience"
 subtitle = ""
 
+
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -18,27 +19,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Co-founder and CTO"
+  company = "Flamingoo Foods (formerly Flying Flamingoo)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Katavi, Tanzania"
+  date_start = "2014-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * advising on rice plantation and investment strategies based on weather information
+  * planning of purchase, transport, storage and sales of food staples
+  * managing of personnel, organizing internships for German students
+  * maintenance of online accounting system used by rice mill and stores
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Student research assistant"
+  company = "WG Bioclimatology, University of Göttingen"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Goettingen, Germany"
+  date_start = "2012-12-01"
+  date_end = "2013-06-01"
+  description = ""
 
 +++
