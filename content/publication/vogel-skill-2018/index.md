@@ -1,0 +1,13 @@
+---
+title: "Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall over Northern Tropical Africa"
+date: 2018-01-01
+publishDate: 2020-06-09T20:23:14.794475Z
+authors: ["Peter Vogel", "Peter Knippertz", "Andreas H. Fink", "Andreas Schlueter", "Tilmann Gneiting"]
+publication_types: ["2"]
+abstract: "Accumulated precipitation forecasts are of high socioeconomic importance for agriculturally dominated societies in northern tropical Africa. In this study, we analyze the performance of nine operational global ensemble prediction systems (EPSs), which are part of the TIGGE dataset, for three regions in northern tropical Africa. Model predictions are assessed relative to climatology-based forecasts for 1 to 5-day accumulated precipitation during the monsoon seasons 2007–2014. To assess the full potential of raw ensemble forecasts across spatial scales, we apply state-of-the-art statistical postprocessing methods in form of Bayesian Model Averaging (BMA) and Ensemble Model Output Statistics (EMOS), and verify against station and spatially aggregated, satellite-based gridded observations. Raw ensemble forecasts are uncalibrated, unreliable and underperform relative to climatology, independently of region, accumulation time, monsoon season and ensemble. Differences between raw ensemble and climatological forecasts are large, and partly stem from poor prediction for low precipitation amounts. BMA and EMOS postprocessed forecasts are calibrated, reliable and strongly improve on the raw ensembles, but - somewhat disappointingly - typically do not outperform climatology. Most EPSs exhibit slight improvements over the period 2007–2014, but overall have little added value compared to climatology. We suspect that the parameterization of convection is a potential cause for the sobering lack of ensemble forecast skill in a region dominated by mesoscale convective systems. This work is part of the Transregional Collaborative Research Center SFB/TRR 165 “Waves to Weather”."
+summary: "Accumulated precipitation forecasts are of high socioeconomic importance for agriculturally dominated societies in northern tropical Africa. In this study, we analyze the performance of nine operational global ensemble prediction systems (EPSs), which are part of the TIGGE dataset, for three regions in northern tropical Africa. [...] To assess the full potential of raw ensemble forecasts across spatial scales, we apply state-of-the-art statistical postprocessing methods in form of Bayesian Model Averaging (BMA) and Ensemble Model Output Statistics (EMOS)..."
+featured: false
+publication: "*Weather and Forecasting*"
+doi: "10.1175/WAF-D-17-0127.1"
+---
+

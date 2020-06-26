@@ -1,0 +1,11 @@
+---
+title: "Sensitivity of West African precipitation to lateral terrestrial water flow in WRF-Hydro"
+date: 2018-01-01
+publishDate: 2020-06-09T20:23:14.802616Z
+authors: ["Joel Arnault", "Thomas Rummler", "Andreas Schlüter", "Peter Knippertz", "Andreas Fink", "Harald Kunstmann"]
+publication_types: ["1"]
+abstract: "The interaction between soil moisture and precipitation is enhanced in transition zones between wet and dry regions. Therefore, it is plausible that a more realistic representation of soil moisture-related processes in an earth system model would improve the modeled precipitation in these transition zones. This research question is addressed in this study with the Weather Research and Forecasting model WRF and its coupled atmospheric-hydrological version WRF-Hydro, for the case of the West African Savannah. In standard WRF the terrestrial water flow is considered as being purely vertical. In WRF-Hydro this constraint is relaxed by the consideration of lateral redistribution of soil moisture according to topography and ground water depth. An ensemble of WRF and WRF-Hydro simulations is generated for the five-year period 2000-2004, based on varied initial soil moisture conditions. The atmospheric initial and lateral boundary conditions are provided by the ERA-Interim reanalysis data. The selected WRF-Hydro setup uses a grid with 5 km horizontal spacing to represent atmospheric processes and a grid with 1000 m spacing to describe lateral terrestrial water flow. Precipitation results are validated against Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS) and Tropical Rainfall Measuring Mission data (TRMM), surface evaporation results are validated against the Multi-Tree Ensemble Fluxnet dataset, and discharge results are validated against gauge observation from the Global Runoff Data Center (GRDC) in four large West African river basins (Upper Niger, Bani, Black Volta, White Volta). The impact of lateral terrestrial water flow on modeled precipitation is assessed by comparing the normalized ensemble spread between the WRF and WRF-Hydro ensemble members. The role of tropical waves in modulating the relationship between lateral terrestrial water flow and West African precipitation is finally addressed."
+featured: false
+publication: "*EGU General Assembly Conference Abstracts*"
+---
+

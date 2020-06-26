@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Featured Publication"
 subtitle = ""
 
 [content]
@@ -61,7 +61,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "img,video { height: auto;  max-width: 10%; display: block; }"
  
  # CSS class.
  css_class = ""

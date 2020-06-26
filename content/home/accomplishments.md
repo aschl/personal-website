@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards & Honors"
 subtitle = ""
 
 # Date format
@@ -58,11 +58,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Studienstiftung"
-  organization_url = "https://www.studienstiftung.de"
+  organization = "Studienstiftung des deutschen Volkes"
   title = "Fellow of the German National Academic Foundation"
-  url = "https://www.deutscher-engagementpreis.de/fileadmin/daten/Seiten/Presse/Pressemitteilungen/PM_Nom_nach_Bundesland_RLP.pdf"
-  # certificate_url = "https://www.datacamp.com"
+  url = "https://www.studienstiftung.de"
   date_start = "2009-02-01"
   date_end = "2015-04-01"
   description = ""
