@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Andreas"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2a5da1"
+primary_light = "#063A7C"
+primary_dark = "#3962a0"
+
+# Menu
+menu_primary = "#063A7C" # 500
+menu_text = "#FFF"
+menu_text_active = "#9eb9ff" # A100
+menu_title = "#FFF"
+
+# Home sections
+home_section_odd = "#F8F9FE"
+home_section_even = "#F0F4F9"
